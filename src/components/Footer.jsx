@@ -3,7 +3,7 @@ import { FaWhatsapp, FaFacebookF, FaInstagram, FaGithub, FaLinkedin } from 'reac
 
 function Footer() {
   return (
-    <div className='md:mt-5  bg-gray-800 text-white p-4 md:justify-end flex md:gap-2 '>
+    <div className='md:mt-0.001  bg-gray-800 text-white p-4 md:justify-end flex md:gap-2 '>
      <div className='md:mr-120'>@ 2025 Om Patil . All Time Reversed </div>
   <a
           href="https://wa.me/+917666736579" 
